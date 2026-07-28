@@ -31,4 +31,4 @@ This project is a high-quality 3D car model created using Blender.
 - Rendering
 ## Turntable Animation
 
-![Car Turntable](turntable.gif)
+![Car Turntable](demo.gif)
