@@ -13,7 +13,7 @@ This project is a high-quality 3D car model created using Blender.
 - Optimized mesh
 
 ## Software
-- Blender 4.x
+- Blender 5.1
 
 ## Preview
 
