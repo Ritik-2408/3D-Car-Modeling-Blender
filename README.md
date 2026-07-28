@@ -1,9 +1,7 @@
-# 3D-Car-Modeling-Blender
-Built a detailed 3D car model using Blender. Applied realistic materials, lighting, and rendering. Demonstrated proficiency in 3D modeling, texturing, and visualization.
 # 🚗 3D Car Model using Blender
 
 ## Overview
-This project is a high-quality 3D car model created using Blender.
+This project is a high-quality 3D car model created using Blender. Built a detailed 3D car model . Applied realistic materials, lighting, and rendering. Demonstrated proficiency in 3D modeling, texturing, and visualization.
 
 ## Features
 - Polygon-based 3D modeling
